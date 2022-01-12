@@ -368,7 +368,7 @@ section{
 .blogs .box-container .box .content .title{
     font-size: 2.5rem;
     line-height: 1.5;
-    color:#fff;
+    color: red;
 }
 
 .blogs .box-container .box .content .title:hover{
